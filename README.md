@@ -1,6 +1,6 @@
 # I'm Khashayar Shomali. Software Engineer from IRAN
 
-[![Website](https://img.shields.io/website?label=opu.rocks&style=for-the-badge&url=https://opu.rocks/?source=github-profile)](https://opu.rocks)
+[![Website](https://img.shields.io/website?label=Khashayar Shomali=for-the-badge&url=https://opu.rocks/?source=github-profile)](https://opu.rocks)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khashayar-shomali-خشایار-شمالی-b445501b4/)
 
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/obayed_opu)
