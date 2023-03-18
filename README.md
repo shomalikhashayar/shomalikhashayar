@@ -25,8 +25,6 @@ Junior Software Engineer from IRAN.
 
 <img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Quasar" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar.svg" style="padding-right:10px;" />
-
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
